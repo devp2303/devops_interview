@@ -1,0 +1,13 @@
+.app {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 3rem;
+  }
+  
+  button {
+    font-size: 1.1rem;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+  }
+  
